@@ -92,6 +92,20 @@ const features = [
       "Display dates and locations of all family members. A button is added to the profile submenu.",
     category: "Profile",
   },
+  {
+    name: "Research Worksheet",
+    id: "researchWorksheet",
+    description:
+      "Track your research using a suggested template, easier editing using wiki tables on a free space page",
+    category: "Editing",
+  },
+  {
+    name: "Events Editor",
+    id: "events",
+    description:
+      "Edit events during a lifespan using the Events template in a hidden section at the end of the profile",
+    category: "Editing",
+  }
 ];
 
 // Categories
